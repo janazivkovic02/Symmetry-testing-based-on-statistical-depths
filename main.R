@@ -5,9 +5,9 @@ library(sn)
 library(ggplot2)
 library(dplyr)
 library(tidyr)
-source("Documents/Fakultet/Master studije/OPMS/Projekat/Kodovi/Korisćeno u radu/generisanje_podataka.R")
-source("Documents/Fakultet/Master studije/OPMS/Projekat/Kodovi/Korisćeno u radu/generisanje_podataka2.R")
-source("Documents/Fakultet/Master studije/OPMS/Projekat/Kodovi/Korisćeno u radu/racunanje_rn_statistike.R")
+source("R/data_generation.R")
+source("R/data_generation2.R")
+source("R/rn_test_statistic.R")
 
 #### simulacije figure 1 ####
 
